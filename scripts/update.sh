@@ -1,13 +1,17 @@
 #!/bin/bash
 
-for i in staging testing legal-testing; do
-    $HOME/$i.creativecommons.org/scripts/update.sh quick
-done
-
 if [[ $1 == "quick" ]]; then
-   exit
+    for i in staging testing legal-testing; do
+	echo "\nQuick update for: $i"
+	$HOME/$i.creativecommons.org/scripts/update.sh quick
+    done
+    exit
 fi
 
+echo "\nFull update for: staging"
 $HOME/staging.creativecommons.org/scripts/update.sh update-l10n
-$HOME/testing.creativecommons.org/scripts/update.sh
-$HOME/legal-testing.creativecommons.org/scripts/update.sh
+
+for i in testing legal-testing; do
+    echo "\nFull update for: $i"
+    $HOME/$i.creativecommons.org/scripts/update.sh
+done
