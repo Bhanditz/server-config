@@ -1,1 +1,1 @@
-branch = legal-testing
+branch = master
