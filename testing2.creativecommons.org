@@ -1,2 +1,2 @@
-owner = nobody
-branch = master
+owner = legal
+branch = correctedfiles
