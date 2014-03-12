@@ -1,2 +1,2 @@
 owner = elliot
-branch = headshots
+branch = staff-headshots
