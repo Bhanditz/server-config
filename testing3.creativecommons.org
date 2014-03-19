@@ -1,2 +1,2 @@
-owner = legal 
-branch = cc0-enwithbox
+owner = 
+branch = 
