@@ -1,2 +1,2 @@
 owner = legal
-branch = cc0-zhtw-legalcode
+branch = cc0-tw-legalcode
