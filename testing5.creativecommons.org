@@ -1,2 +1,2 @@
 owner = nobody
-branch = master
+branch = cc4-nl-legalcode
