@@ -1,2 +1,2 @@
-owner = 
-branch = 
+owner = legal
+branch = cc4-fi-legalcode
