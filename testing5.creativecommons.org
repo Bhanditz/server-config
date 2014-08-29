@@ -1,2 +1,2 @@
 owner = nobody
-branch = cc0-no-legalcode
+branch = mattl-cc0-fi
