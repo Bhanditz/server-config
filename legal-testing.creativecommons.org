@@ -1,2 +1,2 @@
 owner = kat
-branch = za-legalcode
+branch = cc4-fr-legalcode
