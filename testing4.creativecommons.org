@@ -1,2 +1,2 @@
 owner = legal
-branch = mattl-cc4-no
+branch = cc4-fr-legalcode
