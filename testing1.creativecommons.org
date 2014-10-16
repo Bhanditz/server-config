@@ -1,2 +1,2 @@
-owner = legal
-branch = cc4-nl-legalcode
+owner = 
+branch = 
