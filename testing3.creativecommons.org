@@ -1,2 +1,2 @@
-owner = legal
+owner = comms
 branch = banner
