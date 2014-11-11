@@ -1,2 +1,2 @@
 owner =  legal
-branch =  cc0-fi-legalcode
+branch =  cc4-nl-legalcode
