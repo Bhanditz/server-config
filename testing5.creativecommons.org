@@ -1,2 +1,2 @@
-owner = nobody
-branch = cc4-fi-legalcode
+owner = kat
+branch = cc4-nl-legalcode
